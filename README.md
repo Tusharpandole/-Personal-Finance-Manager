@@ -91,19 +91,19 @@ Run the Main class.
 # Usage
 
 - 1.Register: Create a new user account.
-- **2.Login: Log into the application using your username.
+- 2.Login:Log into the application using your username.
 - 3.Manage Transactions:
-  Add a new transaction.
-  View existing transactions.
-  Update an existing transaction.
-  Delete a transaction.
+  - Add a new transaction.
+  - View existing transactions.
+  - Update an existing transaction.
+  - Delete a transaction.
 - 4.Manage Categories:
-  Add a new category.
-  View existing categories.
-  Delete a category.
+  - Add a new category.
+  - View existing categories.
+  - Delete a category.
 - 5.Manage Savings Goals:
-  Add a new savings goal.
-  View existing savings goals.
-  Update an existing savings goal.
-  Delete a savings goal.
+  - Add a new savings goal.
+  - View existing savings goals.
+  - Update an existing savings goal.
+  - Delete a savings goal.
 - 6.Logout: Exit the application.
