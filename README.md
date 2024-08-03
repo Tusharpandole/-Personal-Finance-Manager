@@ -29,18 +29,18 @@ Usage
 
 
 ## Setup Instructions
-- **Prerequisites
-- **Java Development Kit (JDK) 8 or higher
-- **Git
-- **An IDE or text editor (e.g., IntelliJ IDEA, Eclipse, VS Code)
+- Prerequisites
+- Java Development Kit (JDK) 8 or higher
+- Git
+- An IDE or text editor (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
 ## Steps
 
-- **1.Clone the Repository:
+- 1.Clone the Repository:
 
-- **git clone https://github.com/your-username/java-finance-project.git
-- **cd java-finance-project
-- **Open the Project in Your IDE:
+- git clone https://github.com/your-username/java-finance-project.git
+- cd java-finance-project
+- Open the Project in Your IDE:
 
 - **2. Open your IDE and import the project as a Maven or Gradle project.
 - **Run the Application:
