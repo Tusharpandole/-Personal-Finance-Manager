@@ -38,7 +38,7 @@ Usage
 
 - 1.Clone the Repository:
 
-- git clone https://github.com/your-username/java-finance-project.git
+- git clone https://github.com/Tusharpandole/java-finance-project.git
 - cd java-finance-project
 - Open the Project in Your IDE:
 
