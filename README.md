@@ -90,8 +90,10 @@ Run the Main class.
 
 # Usage
 
-- 1.Register: Create a new user account.
-- 2.Login:Log into the application using your username.
+- 1.Register:
+- Create a new user account.
+- 2.Login:
+- Log into the application using your username.
 - 3.Manage Transactions:
   - Add a new transaction.
   - View existing transactions.
